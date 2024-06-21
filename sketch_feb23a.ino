@@ -16,7 +16,7 @@ void setup() {
   dht2.begin();
   dht3.begin();
 }
-
+//bolas
 void loop() {
   // Esperamos unos segundos entre las mediciones.
   delay(2000);
